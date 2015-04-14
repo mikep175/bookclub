@@ -43,6 +43,7 @@
     <Content Include="public\bootstrap\css\bootstrap.min.css" />
     <Content Include="public\bootstrap\img\glyphicons-halflings-white.png" />
     <Content Include="public\bootstrap\img\glyphicons-halflings.png" />
+    <Content Include="public\stylesheets\jumbotron-narrow.css" />
     <Content Include="public\stylesheets\style.styl" />
     <Content Include="README.md" />
     <Content Include="views\index.jade" />
